@@ -51,9 +51,5 @@ is not used. In order to get the AUC and AUPRC values, the user must give the gr
 for a positive sequence example, the title is >chr15_100354095_positive_1; on the other hand, the title of a negative sequence example is >chr15_100565120_positive_0. 
 If the user uses -o option, the model will output the predicted likelihood values in an output file. 
 
-## Genome-wide polyA site prediction for human
-We have used DeepPASTA to perform a genome-wide polyA site prediction for human based on the PolyA-Seq data in (Derti *et al.*, 2012).
-The prediction results can be found [**here**](http://www.cs.ucr.edu/~aaref001/genome_wide_prediction/genome_wide_polyA_site_prediction_human.txt).
-
  
 Note: If you have any question or suggestion please feel free to email: yuht4@outlook.com
